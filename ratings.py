@@ -23,6 +23,12 @@ def show_restaurant_ratings(scores_file):
     print(f'{restaurant} is rated at {rating}.')    
   # return sorted(restaurant_ratings_dict.items())
 
+# create new function
+# ask for new restaurant and score
+# add to dictionary
+# write into the filegit
+
+
 
 show_restaurant_ratings("scores.txt")
 # put your code here
